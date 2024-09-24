@@ -6,7 +6,6 @@ A simple and responsive auto slider built using only HTML and CSS. This project 
 
 ## Features
 
-- 📱 **Responsive Design**: The slider adapts to different screen sizes.
 - ⏳ **Automatic Sliding**: Images transition automatically after a set interval.
 - 🔄 **Simple Navigation**: Users can navigate through images using dots.
 
