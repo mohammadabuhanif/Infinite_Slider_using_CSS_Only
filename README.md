@@ -12,7 +12,7 @@ A simple and responsive auto slider built using only HTML and CSS. This project 
 
 ## Demo
 
-![Auto Slider Demo](https://s1.gifyu.com/images/SAgqX.gif)
+[Auto Slider Demo](https://s1.gifyu.com/images/SAgqX.gif)
 
 [Live Demo](https://mohammadabuhanif.github.io/auto_slider/)
 
