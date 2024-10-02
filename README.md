@@ -13,7 +13,7 @@ A simple and responsive auto slider built using only HTML and CSS. This project 
 
 [Auto Slider Demo](https://s1.gifyu.com/images/SAgqX.gif)
 
-[Live Demo](https://mohammadabuhanif.github.io/auto_slider/)
+[Live Demo]([https://mohammadabuhanif.github.io/auto_slider/](https://mohammadabuhanif.github.io/Infinite_Slider_using_CSS_Only/))
 
 ## Technologies Used
 
